@@ -48,7 +48,7 @@ flask --app app --debug run
 ```
 ## About the Creator
 
-This project was created by Dhiraj Chaudhari.
+This project was created by Dhiraj Chaudhari. https://www.linkedin.com/in/dhiraj-chaudhari-06ba10259/
 
 
 
